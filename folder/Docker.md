@@ -9,7 +9,7 @@ Here are detailed pointwise answers for your Docker-related questions:
 - **Difference from Traditional Virtualization:**
   - **Virtualization:** Uses hypervisors to create multiple virtual machines (VMs), each with its own OS and resources.
   - **Docker:** Uses containers that share the host OS kernel but are isolated from each other, leading to faster startup times and lower overhead compared to VMs
-  - In docker images ie base image is dont having a operating system (OS) , its contain only binary of OS which required to runs only appplication.
+  - In docker images or base image is dont having a operating system (OS) , its contain only binary of OS which required to runs only appplication.
 
 ### 2. **Explain the key components of Docker's architecture.**
 
