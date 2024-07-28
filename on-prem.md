@@ -1,4 +1,4 @@
-Sure, here's a detailed breakdown of each module with key points listed separately:
+Devops Syllabus
 
 ### Module-1 | DevOps Introduction
 - DevOps Introduction
