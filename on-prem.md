@@ -166,4 +166,3 @@ Devops Syllabus
 - Selection of projects to include in the resume
 - Interview preparation
 
-Feel free to ask for more details or specific information on any module!
